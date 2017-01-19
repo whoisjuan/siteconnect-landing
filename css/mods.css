@@ -1,0 +1,19 @@
+.logo {
+	width: 220px;
+}
+
+#header {
+	padding-top: 20px !important;
+}
+
+#service .service-tab ul li a {
+	color: #6E7285 !important;
+}
+
+#service .service-tab ul li a:hover {
+	color: #04C2F4 !important;
+}
+
+.teb-icon-edit {
+	color: #04C2F4 !important;
+}
