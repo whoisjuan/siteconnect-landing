@@ -25,3 +25,38 @@
 .slider-p {
 	font-size: 16px !important;
 }
+
+.edit-button-1 {
+	background: #04C2F4 !important;
+	border: 3px solid #04C2F4 !important;
+	width: 310px !important;
+	/*box-shadow: 0px 1px 1px #FFFFFF !important;*/
+}
+
+
+#footer {
+    background: #6E7285 !important;
+}   
+
+.social-icon a i {
+	background: #FFFFFF !important;
+}
+
+.footer-contant h3 {
+	color: #FFFFFF !important;
+}
+
+
+.support-link ul li a {
+	color: #FFFFFF !important;
+}
+
+
+.teb-icon-edit i {
+	font-size: 100px !important;
+}
+
+.teb-icon-edit {
+    height: 120px !important;
+}
+
