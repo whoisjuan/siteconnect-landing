@@ -519,7 +519,7 @@ height: 56px;
 margin-left: 24px;
 font-size: 14px; color:#8C9494; font-family: 'Raleway', sans-serif; font-weight: 400;
 background: #FFFFFF; width: 555px;}
-.submit-bottom form input[type=submit]{border: none; padding: 21px 55px; background: #04C2F4; color:#fff; font-size: 20px;font-family: 'Proxima Nova Regular'; font-weight: 700; text-transform: uppercase;border-radius: 40px;}
+.submit-bottom form input[type=submit]{border: none; padding: 21px 55px; background: #04C2F4; color:#fff; font-size: 20px; font-weight: 700; text-transform: uppercase;border-radius: 40px;}
 	
 /*=========================
 	 Submit CLOSE
