@@ -66,7 +66,7 @@
 
 .procore-button {
  	background: #04C2F4;
- 	border-radius: 10px;
+ 	border-radius: 5px;
  	font-weight: 700;
  	font-size: 20px;
  	color: white;
@@ -110,5 +110,25 @@
 	font-size: 18px !important;
 	font-weight: 700 !important;
 }
+
+@media only screen and (max-width: 767px) {
+	#service .service-tab ul li {
+		margin-left:30px;
+	}
+	#service .service-tab ul {
+    	margin-right: 30px !important;
+	}
+
+	.bubble-img {
+    margin-bottom: 50px;
+	}
+
+    #slider{
+    	background: #064780 no-repeat;
+    	padding-top: 50px;
+    	padding-bottom: 50px;
+    }
+}
+}	
 
 	

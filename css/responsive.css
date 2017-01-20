@@ -51,7 +51,7 @@ px      68    160    252    */
 
 @media only screen and (max-width: 767px) {
 
-.contact-area{text-align: center}
+.contact-area{text-align: center; display: none;}
 .submit-bottom form input[type=text]{width: 200px;}
 #service .service-tab ul{margin-right: 50px;}
 .edit-tab h1{padding-bottom: 10px; padding-top:0px;font-size: 22px;}
